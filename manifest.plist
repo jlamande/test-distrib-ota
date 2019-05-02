@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.28/Provenance.ipa</string>
+					<string>https://github.com/jlamande/test-distrib-ota/raw/master/Provenance.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
